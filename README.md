@@ -7,3 +7,5 @@ lancer le projet avec npm start
 Topographie :
 
 ![alt text](https://github.com/c-lart/sirene/blob/main/topographie.png)
+
+![alt text](https://github.com/c-lart/sirene/blob/main/UML.drawio.png)
