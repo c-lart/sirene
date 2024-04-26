@@ -1,0 +1,12 @@
+
+{
+"apps": [
+    {
+      "name": "app1",
+      "script": "main.js",
+      "instances": "max",
+      "out_file": "./logs/workerlog.log",
+      "error_file": "./logs/error.log"
+    }
+  ]
+}
